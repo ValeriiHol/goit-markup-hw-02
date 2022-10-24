@@ -20,7 +20,7 @@
   --button-filtr-bkg-active: #2196f3;
 }
 .body {
-  font-family: sans-serif;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
 }
 
@@ -36,6 +36,8 @@
   clip-path: inset(50%);
   margin: -1px;
 }
+
+
 .link {
   text-decoration: none;
 }
@@ -90,13 +92,15 @@
   color: var(--primary-text-color);
 }
 
-.header-mail-link. {
+.header-mail-link {
   font-weight: 500;
   font-size: 14px;
   line-height: calc(16 / 14);
   letter-spacing: 0.02em;
   color: var(--primary-text-color);
 }
+
+
 /* Hero style */
 .hero-title {
   font-weight: 900;
